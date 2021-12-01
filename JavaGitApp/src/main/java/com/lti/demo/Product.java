@@ -13,6 +13,10 @@ public class Product {
 	public String toString() {
 		return "Product [prdId=" + prdId + ", prdName=" + prdName + "]";
 	}
+	public Product() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 	
 	
 }
